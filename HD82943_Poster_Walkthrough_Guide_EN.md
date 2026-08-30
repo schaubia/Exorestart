@@ -10,8 +10,6 @@
 
 > "This poster is an updated dynamical analysis of HD 82943 - a two-planet system in a 2:1 orbital resonance. We combined new radial-velocity data with an N-body model to pin down the orbits and masses more precisely than before, and we also found a hint of a possible third planet that we're still investigating."
 
-> **Tip:** this single sentence is the "hook" - start with it it before diving into any panel, so people know the punchline even if they only stay 20 seconds.
-
 ## 1. Panel 1 - Orbital Update
 
 **Top-left / top-right of the poster - "Orbital update using literature and archival HARPS and HIRES precise RV data"**
