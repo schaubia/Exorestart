@@ -56,7 +56,7 @@ Both eccentricity-type resonant angles librate around 0° with relatively small 
 
 > **Why not just announce it as a planet?:** a signal in the residuals ≠ a confirmed planet - stellar activity (magnetic cycles, spots, plages) must first be ruled out, since it can mimic a periodic Doppler signal, especially at periods on the order of a thousand days.
 
-## 5. QA
+## 5. Q&A
 
 **Q: Why do your results differ from previous studies?**
 A: They don't differ conceptually - we confirm the classical 2:1 resonant picture (Lee et al. 2006, Tan et al. 2013). The difference is precision: more data (HIRES + both HARPS subsets), a longer baseline, a self-consistent N-body model instead of a Keplerian one, and a full Bayesian uncertainty analysis instead of a single best-fit point.
@@ -93,7 +93,7 @@ Combine the CORALIE data (digitized from the graphs in Mayor et al. 2004) with 2
 **Trifonov et al. (2021), AJ 162, 283**
 *(the reference used for the activity-indicator table.)* Not specific to HD 82943, but describes the SERVAL pipeline methodology for extracting stellar-activity indicators from HARPS spectra: the chromatic RV index (CRX), differential line width (dLW), and the Hα, Na I D, and Na II D emission lines - exactly the columns present in the provided data files. The reference is correctly chosen for the methodology cited in the stellar-activity section.
 
-**Extra historical trivia (not on the poster):**
+**Extra historical trivia:**
 - The planets were announced sequentially in 2000 (the longer-period one, b) and 2001 (the shorter-period one, c) by the Geneva team (ESO announcements).
 - HD 82943 is notable for an unusually high lithium-6 abundance for its age - one argument for the hypothesis that the star swallowed planetary material in the past.
 - A debris disk was discovered around the star (2003, infrared excess) - independent evidence for planetesimal material in the system.
