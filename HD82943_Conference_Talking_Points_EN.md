@@ -50,13 +50,13 @@ Both eccentricity-type resonant angles librate around 0° with relatively small 
 
 ## 4. The Third-Planet Question
 
-**Recommended official framing:**
+** Framing:**
 
 > "Our main, statistically most robust result is a two-planet, coplanar 2:1 resonant system - that is the conclusion we are most confident in. However, in the residuals of the two-planet model we see a statistically significant additional signal with a period of about 1100 days. This is consistent with the hypothesis of a third planet proposed by Baluev & Beaugé (2014), but we are not yet claiming it is confirmed as a real planet - we cannot rule out that the signal originates from stellar activity rather than a planetary Doppler signal. We are therefore currently investigating it further using stellar-activity indicators (S-index, Hα, NaD, CRX, differential line width) from the HARPS spectra."
 
-> **If asked "why not just announce it as a planet?":** a signal in the residuals ≠ a confirmed planet - stellar activity (magnetic cycles, spots, plages) must first be ruled out, since it can mimic a periodic Doppler signal, especially at periods on the order of a thousand days.
+> **Why not just announce it as a planet?:** a signal in the residuals ≠ a confirmed planet - stellar activity (magnetic cycles, spots, plages) must first be ruled out, since it can mimic a periodic Doppler signal, especially at periods on the order of a thousand days.
 
-## 5. Likely Audience Questions
+## 5. QA
 
 **Q: Why do your results differ from previous studies?**
 A: They don't differ conceptually - we confirm the classical 2:1 resonant picture (Lee et al. 2006, Tan et al. 2013). The difference is precision: more data (HIRES + both HARPS subsets), a longer baseline, a self-consistent N-body model instead of a Keplerian one, and a full Bayesian uncertainty analysis instead of a single best-fit point.
@@ -81,8 +81,6 @@ A G0-type star, slightly more massive and luminous than the Sun: M* ≈ 1.13–1
 
 ## Appendix A. Literature Notes
 
-*Papers too large to upload - checked directly by title/DOI (full text where available):*
-
 **Goździewski & Maciejewski (2001), ApJ 563, L81**
 The first paper to raise the question of the system's dynamical stability. Shows that the originally announced two-planet Keplerian solution is self-destructing (unstable), and uses the MEGNO indicator to find the stability zones in parameter space - heuristically identifying a stable initial condition that reproduces the observed RV curve well. First work to identify the 2:1 commensurability as key to stability.
 
@@ -99,12 +97,3 @@ Combine the CORALIE data (digitized from the graphs in Mayor et al. 2004) with 2
 - The planets were announced sequentially in 2000 (the longer-period one, b) and 2001 (the shorter-period one, c) by the Geneva team (ESO announcements).
 - HD 82943 is notable for an unusually high lithium-6 abundance for its age - one argument for the hypothesis that the star swallowed planetary material in the past.
 - A debris disk was discovered around the star (2003, infrared excess) - independent evidence for planetesimal material in the system.
-
-## Appendix B. Data Provenance Check
-
-HD82943_HARPS.csv and HD82943_data_feb24.csv match the previously provided data_tito_last.txt in structure and values (same SERVAL/HARPS columns - CRX, dLW, Hα, NaD, RHKp, etc. - and the same number of epochs, ~255). No new or more recent BJD epochs were found, confirming these are not the "latest" data but likely an earlier export of the same set.
-
-BV_HD82943.csv is a reference table of bandpass central wavelength / Galactic extinction (Schlafly & Finkbeiner 2011) - a methodological tool for extinction corrections, not observational data.
-
----
-*Prepared from the poster content, the provided literature, the nested-sampling fit settings (Best lnL + 68.3% percentiles), and the stellar parameter files.*
