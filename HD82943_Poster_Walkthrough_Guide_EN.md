@@ -1,9 +1,9 @@
-# HD 82943 — Talking Through the Poster
+# HD 82943 - Talking Through the Poster
 
 *What to say at each panel and figure, in the order a visitor's eye moves across the poster.*
-*Companion to the HD 82943 Conference Talking Points (Q&A) document — use that one for deeper follow-up questions and literature background.*
+*Companion to the HD 82943 Conference Talking Points (Q&A) document - use that one for deeper follow-up questions and literature background.*
 
-**How to use this guide:** it follows the poster top-to-bottom, left-to-right. For each panel: a one-line reminder of what's shown, then a short script you can say almost verbatim while pointing at the figure. Keep the full tour under ~5 minutes unless someone wants to go deeper — the Q&A prep document has the deeper material for follow-up questions.
+**How to use this guide:** it follows the poster top-to-bottom, left-to-right. For each panel: a one-line reminder of what's shown, then a short script you can say almost verbatim while pointing at the figure. Keep the full tour under ~5 minutes unless someone wants to go deeper - the Q&A prep document has the deeper material for follow-up questions.
 
 ---
 
@@ -13,7 +13,7 @@
 
 > "This poster is an updated dynamical analysis of HD 82943 — a two-planet system in a 2:1 orbital resonance. We combined new radial-velocity data with an N-body model to pin down the orbits and masses more precisely than before, and we also found a hint of a possible third planet that we're still investigating."
 
-> **Tip:** this single sentence is your "hook" — say it before diving into any panel, so people know the punchline even if they only stay 20 seconds.
+> **Tip:** this single sentence is the "hook" - start with it it before diving into any panel, so people know the punchline even if they only stay 20 seconds.
 
 ## 1. Panel 1 — Orbital Update
 
@@ -22,7 +22,7 @@
 ### Figure: RV time series (top-left, big plot)
 What's shown: radial velocity [m/s] vs. time [BJD], 2454000–2458000+. Blue stars = HIRES, red circles = HARPS pre-upgrade, green triangles = HARPS post-upgrade. The smooth black curve is the best-fit two-planet model. Below it, the O–C panel shows the residuals (data minus model).
 
-> "This is our full radial-velocity baseline — almost 15 years of data from three instrument/epoch combinations, HIRES in blue and two HARPS eras in red and green. The black curve is our best two-planet fit, and the residuals underneath are flat and small — that's what tells us the two-planet model already explains the data very well."
+> "This is our full radial-velocity baseline - almost 15 years of data from three instrument/epoch combinations, HIRES in blue and two HARPS eras in red and green. The black curve is our best two-planet fit, and the residuals underneath are flat and small — that's what tells us the two-planet model already explains the data very well."
 
 ### Figure: Phase-folded plots (below the time series)
 What's shown: two panels, each showing the RV signal folded on one planet's period after removing the other planet's signal — left panel folded on planet b's ~220-day period, right panel on planet c's ~440-day period. Points from all three instruments overlap tightly on a single curve.
@@ -32,16 +32,16 @@ What's shown: two panels, each showing the RV signal folded on one planet's peri
 ### Figure: Corner plot (top-right)
 What's shown: the Bayesian posterior distributions from the nested-sampling fit — 2D contours and 1D histograms for P_b, e_b, P_c, e_c, m_b, m_c. Red crosshairs mark the best-fit ("Best lnL") values.
 
-> "This corner plot is the output of our Bayesian fit — it shows not just single best values but the full uncertainty and correlations between parameters. You can see the posteriors are all single, well-defined peaks — no multiple competing solutions — which means the fit is well constrained."
+> "This corner plot is the output of our Bayesian fit - it shows not just single best values but the full uncertainty and correlations between parameters. You can see the posteriors are all single, well-defined peaks — no multiple competing solutions — which means the fit is well constrained."
 
 ### Table: Parameter values (next to the corner plot)
-What's shown: the best-fit orbital parameters at the reference epoch — periods, eccentricities, mutual inclination, and true masses, each with 68.3% confidence intervals.
+What's shown: the best-fit orbital parameters at the reference epoch - periods, eccentricities, mutual inclination, and true masses, each with 68.3% confidence intervals.
 
-> "These are our headline numbers: periods of about 220 and 440 days — right at the 2:1 ratio — eccentricities of 0.42 and 0.14, and a mutual inclination near 17 degrees, which pushes the true masses up to about 5.4 and 5 Jupiter masses — roughly three times the minimum masses you'd get without knowing the inclination."
+> "These are our headline numbers: periods of about 220 and 440 days - right at the 2:1 ratio - eccentricities of 0.42 and 0.14, and a mutual inclination near 17 degrees, which pushes the true masses up to about 5.4 and 5 Jupiter masses - roughly three times the minimum masses you'd get without knowing the inclination."
 
-## 2. Panel 2 — N-Body Model & Bayesian Analysis
+## 2. Panel 2 - N-Body Model & Bayesian Analysis
 
-**Bottom-left of the poster — "N-Body model and Bayesian analysis"**
+**Bottom-left of the poster - "N-Body model and Bayesian analysis"**
 
 What's shown: a screenshot of the Exo-Striker software interface — the RV fit and residual panels, plus the fitted-parameter table inside the tool itself. This illustrates the modelling software and workflow, not a new result.
 
@@ -65,9 +65,9 @@ What's shown: the same quantities (e_b, e_c, P_c/P_b, Δω, θ1, θ2) summarized
 
 > "Both resonant angles librate with fairly small amplitudes — about 40 degrees or less — around zero, and the apsidal angle does the same. That's an aligned resonant configuration: the two orbits' long axes stay pointed in nearly the same direction over thousands of years."
 
-## 4. Panel 4 — A Likely Third Exoplanet
+## 4. Panel 4 - A Likely Third Exoplanet
 
-**Bottom-right of the poster — "A likely third exoplanet in the system"**
+**Bottom-right of the poster - "A likely third exoplanet in the system"**
 
 What's shown: a periodogram of the residuals from the two-planet N-body fit — dlnL vs. period [days], log scale. A strong, isolated peak is marked with a red arrow near ~1100 days, well above the significance threshold lines.
 
