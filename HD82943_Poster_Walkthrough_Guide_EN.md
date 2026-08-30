@@ -1,13 +1,12 @@
 # HD 82943 - Talking Through the Poster
 
-*What to say at each panel and figure, in the order a visitor's eye moves across the poster.*
-*Companion to the HD 82943 Conference Talking Points (Q&A) document - use that one for deeper follow-up questions and literature background.*
+*What to say at each panel and figure*
 
 ---
 
 ## 0. Title, Authors & Abstract
 
-**Opening line**, as someone walks up:
+**Opening line**:
 
 > "This poster is an updated dynamical analysis of HD 82943 - a two-planet system in a 2:1 orbital resonance. We combined new radial-velocity data with an N-body model to pin down the orbits and masses more precisely than before, and we also found a hint of a possible third planet that we're still investigating."
 
