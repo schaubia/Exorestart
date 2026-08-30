@@ -1,31 +1,31 @@
-# HD 82943 — Talking Points
+# HD 82943 - Talking Points
 
 *An updated dynamical analysis of the HD 82943 planetary system*
-*Conference Q&A prep — main talking points below; background material is in the Appendices at the end.*
+*Conference Q&A prep - main talking points below*
 
 ---
 
 ## 1. Elevator Pitch
 
-HD 82943 is a Sun-like star (G0, ~1.13–1.15 M☉), known since 2000/2001 for hosting two gas giants locked in a 2:1 orbital resonance (periods of ~220 and ~440 days). The system has been studied repeatedly over the past 20+ years, with conflicting results — different teams have proposed a stable coplanar 2:1 configuration, or alternatives such as a 1:1 resonance or a third planet in a Laplace resonance.
+HD 82943 is a Sun-like star (G0, ~1.13–1.15 M☉), known since 2000/2001 for hosting two gas giants locked in a 2:1 orbital resonance (periods of ~220 and ~440 days). The system has been studied repeatedly over the past 20+ years, with conflicting results - different teams have proposed a stable coplanar 2:1 configuration, or alternatives such as a 1:1 resonance or a third planet in a Laplace resonance.
 
 This work presents the most precise dynamical analysis of the system to date, combining extended HIRES/Keck and HARPS RV data (289 points) with a self-consistent N-body model and Bayesian (nested sampling) analysis. The result strongly confirms the classical picture: a stable, coplanar, significantly inclined (~17°) 2:1 resonant system with aligned resonant angles (libration around 0°).
 
-Separately, the residuals show a hint of a possible third planet (period ~1100 days) — consistent with an earlier hypothesis by Baluev & Beaugé (2014) — but this is not yet confirmed, since stellar activity has not been ruled out as the origin of the signal.
+Separately, the residuals show a hint of a possible third planet (period ~1100 days), this is consistent with an earlier hypothesis by Baluev & Beaugé (2014), but not yet confirmed, since stellar activity has not been ruled out as the origin of the signal.
 
 ## 2. Historical Framework
 
-*If asked "what's new here?" — the timeline:*
+* What's new here? - the timeline:*
 
-- **2000–2001 (ESO/CORALIE — Mayor, Udry, Naef et al.):** the two planets are announced sequentially — the longer-period one first, then the shorter-period one.
-- **2004 — Mayor et al.:** official publication of the CORALIE orbital solutions.
-- **2006 — Lee et al.:** combine CORALIE + new Keck data; show the only stable solutions correspond to the 2:1 MMR, periods ~220 and ~440 days — the classic result cited on the poster.
-- **2006 — Goździewski & Konacki:** propose an alternative, less coplanar 1:1 resonant solution (later found to be less well supported).
-- **2008 — Beaugé et al.:** propose a third planet in a Laplace resonance (4:2:1), based mainly on CORALIE data.
-- **2013 — Tan et al.:** significantly expanded Keck data set; confirm a stable two-planet configuration with aligned apsidal corotation; note a weak, statistically insufficient hint near ~1000 days.
-- **2014 — Baluev & Beaugé:** joint CORALIE + Keck analysis; argue for a real additional ~1075-day signal, potentially a third planet, while acknowledging the uncertainty.
+- **2000-2001 (ESO/CORALIE - Mayor, Udry, Naef et al.):** the two planets are announced sequentially - the longer-period one first, then the shorter-period one.
+- **2004 - Mayor et al.:** official publication of the CORALIE orbital solutions.
+- **2006 - Lee et al.:** combine CORALIE + new Keck data; show the only stable solutions correspond to the 2:1 MMR, periods ~220 and ~440 days - the classic result cited on the poster.
+- **2006 - Goździewski & Konacki:** propose an alternative, less coplanar 1:1 resonant solution (later found to be less well supported).
+- **2008 - Beaugé et al.:** propose a third planet in a Laplace resonance (4:2:1), based mainly on CORALIE data.
+- **2013 - Tan et al.:** significantly expanded Keck data set; confirm a stable two-planet configuration with aligned apsidal corotation; note a weak, statistically insufficient hint near ~1000 days.
+- **2014 - Baluev & Beaugé:** joint CORALIE + Keck analysis; argue for a real additional ~1075-day signal, potentially a third planet, while acknowledging the uncertainty.
 
-> **Takeaway:** the question "is there a third planet?" has been open in the literature for over 15 years — this analysis is the latest, most precise step in that discussion, not the first time it has been raised.
+> **Takeaway:** the question "is there a third planet?" has been open in the literature for over 15 years - this analysis is the latest, most precise step in that discussion, not the first time it has been raised.
 
 ## 3. What the Analysis Shows
 
