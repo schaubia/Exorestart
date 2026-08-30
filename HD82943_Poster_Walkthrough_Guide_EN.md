@@ -3,8 +3,6 @@
 *What to say at each panel and figure, in the order a visitor's eye moves across the poster.*
 *Companion to the HD 82943 Conference Talking Points (Q&A) document - use that one for deeper follow-up questions and literature background.*
 
-**How to use this guide:** it follows the poster top-to-bottom, left-to-right. For each panel: a one-line reminder of what's shown, then a short script you can say almost verbatim while pointing at the figure. Keep the full tour under ~5 minutes unless someone wants to go deeper - the Q&A prep document has the deeper material for follow-up questions.
-
 ---
 
 ## 0. Title, Authors & Abstract
@@ -73,7 +71,6 @@ What's shown: a periodogram of the residuals from the two-planet N-body fit - dl
 
 > "After removing the two-planet signal, we still see a strong, significant peak in the residuals around 1100 days. We list three possible explanations on the poster: a third planet, as suggested before by Baluev and Beaugé in 2014; unmodeled mutual inclination between planets b and c; or stellar activity mimicking a Doppler signal. Right now we think a third planet is the most likely explanation, but we're not calling it confirmed - we still need to rule out stellar activity using activity indicators from the HARPS spectra."
 
-> **Keep this exact balance when you say it:** lead with "most likely explanation," not "confirmed planet." That phrasing matches exactly what's written on the poster and avoids overclaiming.
 
 ## 5. Panel 5 - Summary and Conclusions
 
@@ -92,7 +89,7 @@ What's shown: the closing text box - no figure, just the take-home statement of 
 - **~60 sec** - Panel 4: the periodogram - this is usually where people get curious and start asking questions.
 - **~15 sec** - Panel 5: close with the summary line, then open the floor for questions.
 
-> **If you're short on time:** Title/Abstract → RV time series → resonant-angle plots → periodogram → summary line covers the whole story in under 3 minutes.
+> **If short on time:** Title/Abstract → RV time series → resonant-angle plots → periodogram → summary line covers the whole story in under 3 minutes.
 
 ---
-*Companion to the HD 82943 Conference Talking Points (Q&A) document - use that one for deeper follow-up questions and literature background.*
+*Companion to the HD 82943 Conference Talking Points (Q&A) document for deeper follow-up questions and literature background.*
