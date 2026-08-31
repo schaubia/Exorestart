@@ -27,7 +27,7 @@ What's shown: two panels, each showing the RV signal folded on one planet's peri
 ### Figure: Corner plot (top-right)
 What's shown: the Bayesian posterior distributions from the nested-sampling fit - 2D contours and 1D histograms for P_b, e_b, P_c, e_c, m_b, m_c. Red crosshairs mark the best-fit ("Best lnL") values.
 
-> "This corner plot is the output of our Bayesian fit - it shows not just single best values but the full uncertainty and correlations between parameters. You can see the posteriors are all single, well-defined peaks - no multiple competing solutions - which means the fit is well constrained."
+> "This corner plot is the output of our Bayesian fit - it shows not just single best values but the full uncertainty and correlations between parameters. You can see the posteriors are all single, well-defined peaks. There are no multiple competing solutions, which means the fit is well constrained."
 
 ### Table: Parameter values (next to the corner plot)
 What's shown: the best-fit orbital parameters at the reference epoch - periods, eccentricities, mutual inclination, and true masses, each with 68.3% confidence intervals.
