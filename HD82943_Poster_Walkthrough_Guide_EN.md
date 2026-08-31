@@ -42,7 +42,7 @@ What's shown: a screenshot of the Exo-Striker software interface - the RV fit an
 
 > "This is a look under the hood - we used the Exo-Striker package to run a self-consistent N-body fit, not a simpler Keplerian one, and nested sampling to explore the full parameter space rather than just chasing a single best fit. That's what lets us properly propagate uncertainties into the masses and the resonance analysis."
 
-> **If someone asks "why N-body instead of Keplerian?":** at this level of proximity and eccentricity, the two planets tug on each other enough that their orbits aren't independent ellipses - an N-body model captures that mutual interaction directly, which matters especially for testing resonance and stability.
+> **Why N-body instead of Keplerian?":** at this level of proximity and eccentricity, the two planets tug on each other enough that their orbits aren't independent ellipses - an N-body model captures that mutual interaction directly, which matters especially for testing resonance and stability.
 
 ## 3. Panel 3 - Long-Term Stability & Resonance Analysis
 
@@ -76,17 +76,7 @@ What's shown: a periodogram of the residuals from the two-planet N-body fit - dl
 What's shown: the closing text box - no figure, just the take-home statement of the poster.
 
 > "So, to sum up: using the most extended HIRES and HARPS data set assembled for this system so far, we give the most precise characterization of HD 82943 to date - confirming it's a stable, coplanar, significantly inclined 2:1 resonant system with true masses about three times the minimum masses - and we flag a promising but not-yet-confirmed hint of a third planet for follow-up work."
-
-## 6. Suggested Tour Order & Timing
-
-- **~20 sec** - opening hook (Title/Abstract box).
-- **~90 sec** - Panel 1: point at the RV time series and the parameter table; skip the corner plot unless they ask about uncertainties.
-- **~30 sec** - Panel 2: one sentence on the method, don't dwell on the screenshot.
-- **~60 sec** - Panel 3: point at the resonant-angle libration plots - this is the physical proof of the resonance.
-- **~60 sec** - Panel 4: the periodogram - this is usually where people get curious and start asking questions.
-- **~15 sec** - Panel 5: close with the summary line, then open the floor for questions.
-
-> **If short on time:** Title/Abstract → RV time series → resonant-angle plots → periodogram → summary line covers the whole story in under 3 minutes.
+ questions.
 
 ---
 *Companion to the HD 82943 Conference Talking Points (Q&A) document for deeper follow-up questions and literature background.*
