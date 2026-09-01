@@ -8,7 +8,7 @@
 
 **Opening line**:
 
-> "This poster is an updated dynamical analysis of the HD 82943 two-planet system, that is in a 2:1 orbital resonance. We combined new radial-velocity data with an N-body model to pin down the orbits and masses more precisely than before, and we also found a hint of a possible third planet that we're still investigating."
+> "This poster is an updated dynamical analysis of the HD 82943 two-planet system, which is in a 2:1 orbital resonance. We combined new radial-velocity data with an N-body model to pin down the orbits and masses more precisely than before, and we also found a hint of a possible third planet that is still under investigation."
 
 ## 1. Panel 1 - Orbital Update
 
@@ -17,7 +17,7 @@
 ### Figure: RV time series (top-left, big plot)
 What's shown: radial velocity [m/s] vs. time [BJD], 2454000–2458000+. Blue stars = HIRES, red circles = HARPS pre-upgrade, green triangles = HARPS post-upgrade. The smooth black curve is the best-fit two-planet model. Below it, the O–C panel shows the residuals (data minus model).
 
-> "This is our full radial-velocity baseline - almost 15 years of data from three instrument/epoch combinations, HIRES in blue and two HARPS eras in red and green (pre- and post upgrade. The black curve is our best two-planet fit, and the residuals underneath are flat and small - that's what tells us the two-planet model already explains the data very well."
+> "This is our full radial-velocity baseline - almost 15 years of data from three instrument/epoch combinations, HIRES in blue and two HARPS eras in red and green (pre- and post-upgrade. The black curve is our best two-planet fit, and the residuals underneath are flat and small - that's what tells us the two-planet model already explains the data very well."
 
 ### Figure: Phase-folded plots (below the time series)
 What's shown: two panels, each showing the RV signal folded on one planet's period after removing the other planet's signal - left panel folded on planet b's ~220-day period, right panel on planet c's ~440-day period. Points from all three instruments overlap tightly on a single curve.
