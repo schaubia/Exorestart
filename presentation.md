@@ -1,4 +1,4 @@
-# HD 82943 — 1-Minute Poster Pitch
+# HD 82943
 
 ---
 
