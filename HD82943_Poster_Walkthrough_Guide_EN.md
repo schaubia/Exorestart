@@ -58,7 +58,7 @@ What's shown: the same quantities (e_b, e_c, P_c/P_b, Δω, θ1, θ2) summarized
 
 > **Important distinction to make if asked:** this table is time-averaged behaviour over the long integration, while the parameter table in Panel 1 is the point best-fit at the present epoch. They describe different things and are not in tension with each other.
 
-> "Both resonant angles librate with fairly small amplitudes - about 40 degrees or less - around zero, and the apsidal angle does the same. That's an aligned resonant configuration: the two orbits' long axes stay pointed in nearly the same direction over thousands of years."
+> "Both resonant angles librate with fairly small amplitudes around zero, about 40 degrees or less. The same is true for the apsidal angle. That's an aligned resonant configuration: the long axes of the two orbits stay pointed in nearly the same direction over thousands of years."
 
 ## 4. Panel 4 - A Likely Third Exoplanet
 
