@@ -91,9 +91,9 @@ Combine the CORALIE data (digitized from the graphs in Mayor et al. 2004) with 2
 *(the file "2013_Baluev_stt2486" is the same paper - stt2486 is its MNRAS DOI suffix; identical to "2014_Baluev1410.1325", already reviewed.)* Purge a systematic annual variation in the CORALIE data and find a clear additional signal with a period of ~1075–1100 days in the residuals, present in all three independent RV subsets. They propose a stable configuration close to a 1:2:5 three-planet resonance - while explicitly noting uncertainty: the third planet "may lie in or slightly outside" the 5:2 resonance, with a mass of only ~0.3 M_Jup.
 
 **Trifonov et al. (2021), AJ 162, 283**
-*(the reference used for the activity-indicator table.)* Not specific to HD 82943, but describes the SERVAL pipeline methodology for extracting stellar-activity indicators from HARPS spectra: the chromatic RV index (CRX), differential line width (dLW), and the Hα, Na I D, and Na II D emission lines - exactly the columns present in the provided data files. The reference is correctly chosen for the methodology cited in the stellar-activity section.
+*(the reference used for the activity-indicator table.)* Not specific to HD 82943, but describes the SERVAL pipeline methodology for extracting stellar-activity indicators from HARPS spectra: the chromatic RV index (CRX), differential line width (dLW), and the Hα, Na I D, and Na II D emission lines. The reference is correctly chosen for the methodology cited in the stellar-activity section.
 
 **Extra historical trivia:**
 - The planets were announced sequentially in 2000 (the longer-period one, b) and 2001 (the shorter-period one, c) by the Geneva team (ESO announcements).
 - HD 82943 is notable for an unusually high lithium-6 abundance for its age - one argument for the hypothesis that the star swallowed planetary material in the past.
-- A debris disk was discovered around the star (2003, infrared excess) - independent evidence for planetesimal material in the system.
+- A debris disk was discovered around the star (2003, infrared excess), which is independent evidence for planetesimal material in the system.
