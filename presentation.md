@@ -1,4 +1,4 @@
-# HD 82943
+# HD 82943 poster presentation
 
 ---
 
