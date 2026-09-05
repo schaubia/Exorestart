@@ -7,7 +7,7 @@
 
 ## 1. Elevator Pitch
 
-HD 82943 is a Sun-like star (G0, ~1.13–1.15 M☉), known since 2000/2001 for hosting two gas giants locked in a 2:1 orbital resonance (periods of ~220 and ~440 days). The system has been studied repeatedly over the past 20+ years, with conflicting results - different teams have proposed a stable coplanar 2:1 configuration, or alternatives such as a 1:1 resonance or a third planet in a Laplace resonance.
+HD 82943 is a Sun-like star (spectral class G0, ~1.13–1.15 M☉), known since 2000/2001 for hosting two gas giants locked in a 2:1 orbital resonance (with periods of ~220 and ~440 days). The system has been studied repeatedly over the past 20+ years, with conflicting results - different teams have proposed a stable coplanar 2:1 configuration, or alternatives such as a 1:1 resonance or a third planet in a Laplace resonance.
 
 This work presents the most precise dynamical analysis of the system to date, combining extended HIRES/Keck and HARPS RV data (289 points) with a self-consistent N-body model and Bayesian (Nested sampling) analysis. The result strongly confirms the classical picture: a stable, coplanar, significantly inclined (~17°) 2:1 resonant system with aligned resonant angles (libration around 0°).
 
