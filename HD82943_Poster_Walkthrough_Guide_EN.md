@@ -75,7 +75,7 @@ What's shown: a periodogram of the residuals from the two-planet N-body fit - dl
 
 What's shown: the closing text box - no figure, just the take-home statement of the poster.
 
-> "So, to sum up: using the most extended HIRES and HARPS data set assembled for this system so far, we give the most precise characterization of HD 82943 to date - confirming it's a stable, coplanar, significantly inclined 2:1 resonant system with true masses about three times the minimum masses - and we flag a promising but not-yet-confirmed hint of a third planet for follow-up work."
+> "To sum up, using the most extended HIRES and HARPS data set assembled for this system so far, we give the most precise characterization of HD 82943 to date. We confirm that it is a stable, coplanar, significantly inclined 2:1 resonant system with true masses about three times the minimum masses - and we flag a promising but unconfirmed hint of a third planet for follow-up work."
  questions.
 
 ---
