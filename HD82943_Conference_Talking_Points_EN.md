@@ -11,7 +11,7 @@ HD 82943 is a Sun-like star of spectral class G0, with a mass of ~1.13–1.15 M�
 
 This work presents the most precise dynamical analysis of the system to date, combining extended HIRES/Keck and HARPS RV data (289 points) with a self-consistent N-body model and Bayesian (Nested sampling) analysis. The result strongly confirms the classical picture: a stable, coplanar, significantly inclined (~17°) 2:1 resonant system with aligned resonant angles (libration around 0°).
 
-Separately, the residuals show a hint of a possible third planet (period ~1100 days), which is consistent with an earlier hypothesis by Baluev & Beaugé (2014), but not yet confirmed, since stellar activity has not been ruled out as the origin of the signal.
+Separately, the residuals show a hint of a possible third planet with a period of ~1100 days, which is consistent with an earlier hypothesis by Baluev & Beaugé (2014), but not yet confirmed, since stellar activity has not been ruled out as the origin of the signal.
 
 ## 2. Historical Framework
 
