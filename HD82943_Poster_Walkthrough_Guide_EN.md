@@ -8,11 +8,11 @@
 
 **Opening line**:
 
-> "This poster is an updated dynamical analysis of the HD 82943 two-planet system, which is in a 2:1 orbital resonance. We combined new radial-velocity data with an N-body model to pin down the orbits and masses more precisely than before, and we also found a hint of a possible third planet that is still under investigation."
+> "This poster represents an updated dynamical analysis of the HD 82943 two-planet system, which is in a 2:1 orbital resonance. We combined new radial-velocity data with an N-body model to pin down the orbits and masses more precisely than before, and we also found a hint of a possible third planet that is still under investigation."
 
 ## 1. Panel 1 - Orbital Update
 
-**Top-left / top-right of the poster - "Orbital update using literature and archival HARPS and HIRES precise RV data"**
+**Top-left and top-right of the poster - "Orbital update using literature and archival HARPS and HIRES precise RV data"**
 
 ### Figure: RV time series (top-left, big plot)
 What's shown: radial velocity [m/s] vs. time [BJD], 2454000–2458000+. Blue stars = HIRES, red circles = HARPS pre-upgrade, green triangles = HARPS post-upgrade. The smooth black curve is the best-fit two-planet model. Below it, the O–C panel shows the residuals (data minus model).
