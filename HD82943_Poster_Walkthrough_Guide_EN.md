@@ -80,3 +80,4 @@ What's shown: the closing text box - no figure, just the take-home statement of 
 
 ---
 *Companion to the HD 82943 Conference Talking Points (Q&A) document for deeper follow-up questions and literature background.*
+check the exo mps page for article submission
