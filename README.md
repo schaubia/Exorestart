@@ -1,6 +1,6 @@
 # EXO-RESTART Publications Automation
 
-This package helps you automatically fetch and display publications for the EXO-RESTART team on your WordPress website.
+This package is created to automatically fetch and display publications for the EXO-RESTART team on your WordPress website.
 
 ## Quick Answer to Your Question
 
